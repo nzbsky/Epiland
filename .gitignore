@@ -1,6 +1,6 @@
 ### AL ###
 #.env files to save token
-/.env
+.env
 #Template for AL projects for Dynamics 365 Business Central
 #launch.json folder
 .vscode/
