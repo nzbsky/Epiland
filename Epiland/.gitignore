@@ -1,0 +1,14 @@
+/*
+
+!/Epiland/
+!/Epiland/**
+
+!/requirements.txt
+
+.venv/
+venv/
+.env
+__pycache__/
+.vscode/
+
+.env
